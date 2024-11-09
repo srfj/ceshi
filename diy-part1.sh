@@ -10,9 +10,6 @@
 # See /LICENSE for more information.
 #
 
-git tag
-git checkout 20221001
-
 # 添加软件包
 git clone https://github.com/srfj/luci-app-mwan3helper-chinaroute package/luci-app-mwan3helper-chinaroute
 git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
